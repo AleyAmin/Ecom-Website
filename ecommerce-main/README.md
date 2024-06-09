@@ -1,2 +1,0 @@
-# ecommerce
-django ecommerce website
